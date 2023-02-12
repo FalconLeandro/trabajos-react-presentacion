@@ -1,4 +1,3 @@
-import { logDOM } from '@testing-library/react';
 import '../styles-sheet/Card.css';
 
 
