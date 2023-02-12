@@ -1,0 +1,118 @@
+.card{
+    display: flex;
+    align-items: center;
+    width: 300px;
+    height: 380px;
+    background-color: #fff;
+    box-shadow: 0 15px 45px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+    transition: 0.5s ease-in-out;
+    margin: 3rem;
+    z-index: 1;
+}
+.card:hover{
+    width: 600px;
+}
+
+.imgBox{
+    position: relative;
+    min-width: 300px;
+    width: 300px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.5s ease-in-out;
+}
+.card:hover .imgBox {
+    transform: rotate(-30deg);
+}
+.imgBox img{
+    width: 85%;
+}
+
+.details {
+    position: relative;
+    min-width: 300px;
+    background: #4ba9e9;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    color: #fff;
+
+}
+.details::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-bottom: 10px solid transparent;
+    border-top: 10px solid transparent;
+    border-left: 10px solid #fff;
+
+}
+.title small{
+    font-weight: 200;
+    font-size:.8em;
+
+}
+
+.details h4{
+    font-size: .9em;
+
+}
+.description{
+    font-size: 0.9em;
+    font-weight: 200;
+
+}
+
+.size ul{
+    display: flex;
+    width: 100%;
+}
+
+.size ul li{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.8em;
+    border: solid 1px #fff;
+    padding: .8em;
+    margin-right: 1em;
+    cursor: pointer;
+}
+.size ul li:hover {
+    background-color:#fff ;
+    color: #4ba9e9;
+}
+
+.buy{
+    display: flex;
+    justify-content: space-between;
+
+}
+.price{
+    font-size: 1.5em;
+
+}
+.btn{
+    background: #fff;
+    padding: .5em .8em;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.btn a{
+    text-decoration: none;
+    color: #4ba9e9;
+
+}
+.btn:hover a{
+    font-weight: 600;
+}

@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#particle-container{
+  position: absolute;
+  width: 100vw;
+  top: 0;
+}
