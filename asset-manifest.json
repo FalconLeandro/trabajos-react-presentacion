@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/falconleandro/trabajos-react-presentacion.git/static/css/main.06a19fea.css",
-    "main.js": "/falconleandro/trabajos-react-presentacion.git/static/js/main.4a744f60.js",
-    "static/media/jd_019354_a.jpeg": "/falconleandro/trabajos-react-presentacion.git/static/media/jd_019354_a.9ee35e9cc301f07aedaf.jpeg",
-    "static/media/calzado-air-max-flyknit-racer-m3NSDB.jpeg": "/falconleandro/trabajos-react-presentacion.git/static/media/calzado-air-max-flyknit-racer-m3NSDB.df5b3f92806207d1264c.jpeg",
-    "index.html": "/falconleandro/trabajos-react-presentacion.git/index.html",
-    "main.06a19fea.css.map": "/falconleandro/trabajos-react-presentacion.git/static/css/main.06a19fea.css.map",
-    "main.4a744f60.js.map": "/falconleandro/trabajos-react-presentacion.git/static/js/main.4a744f60.js.map"
+    "main.css": "/trabajos-react-presentacion/static/css/main.06a19fea.css",
+    "main.js": "/trabajos-react-presentacion/static/js/main.b15be140.js",
+    "static/media/jd_019354_a.jpeg": "/trabajos-react-presentacion/static/media/jd_019354_a.9ee35e9cc301f07aedaf.jpeg",
+    "static/media/calzado-air-max-flyknit-racer-m3NSDB.jpeg": "/trabajos-react-presentacion/static/media/calzado-air-max-flyknit-racer-m3NSDB.df5b3f92806207d1264c.jpeg",
+    "index.html": "/trabajos-react-presentacion/index.html",
+    "main.06a19fea.css.map": "/trabajos-react-presentacion/static/css/main.06a19fea.css.map",
+    "main.b15be140.js.map": "/trabajos-react-presentacion/static/js/main.b15be140.js.map"
   },
   "entrypoints": [
     "static/css/main.06a19fea.css",
-    "static/js/main.4a744f60.js"
+    "static/js/main.b15be140.js"
   ]
 }
