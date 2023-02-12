@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FalconLeandro/trabajos-react-presentacion.git/static/css/main.06a19fea.css",
+    "main.js": "/FalconLeandro/trabajos-react-presentacion.git/static/js/main.32588022.js",
+    "static/media/jd_019354_a.jpeg": "/FalconLeandro/trabajos-react-presentacion.git/static/media/jd_019354_a.9ee35e9cc301f07aedaf.jpeg",
+    "static/media/calzado-air-max-flyknit-racer-m3NSDB.jpeg": "/FalconLeandro/trabajos-react-presentacion.git/static/media/calzado-air-max-flyknit-racer-m3NSDB.df5b3f92806207d1264c.jpeg",
+    "index.html": "/FalconLeandro/trabajos-react-presentacion.git/index.html",
+    "main.06a19fea.css.map": "/FalconLeandro/trabajos-react-presentacion.git/static/css/main.06a19fea.css.map",
+    "main.32588022.js.map": "/FalconLeandro/trabajos-react-presentacion.git/static/js/main.32588022.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06a19fea.css",
+    "static/js/main.32588022.js"
+  ]
+}
