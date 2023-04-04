@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/trabajos-react-presentacion/static/css/main.06a19fea.css",
-    "main.js": "/trabajos-react-presentacion/static/js/main.b15be140.js",
-    "static/media/jd_019354_a.jpeg": "/trabajos-react-presentacion/static/media/jd_019354_a.9ee35e9cc301f07aedaf.jpeg",
-    "static/media/calzado-air-max-flyknit-racer-m3NSDB.jpeg": "/trabajos-react-presentacion/static/media/calzado-air-max-flyknit-racer-m3NSDB.df5b3f92806207d1264c.jpeg",
-    "index.html": "/trabajos-react-presentacion/index.html",
-    "main.06a19fea.css.map": "/trabajos-react-presentacion/static/css/main.06a19fea.css.map",
-    "main.b15be140.js.map": "/trabajos-react-presentacion/static/js/main.b15be140.js.map"
+    "main.css": "/shoeShop/static/css/main.5cf09c4b.css",
+    "main.js": "/shoeShop/static/js/main.25b64615.js",
+    "static/media/jd_019354_a.jpeg": "/shoeShop/static/media/jd_019354_a.9ee35e9cc301f07aedaf.jpeg",
+    "static/media/calzado-air-max-flyknit-racer-m3NSDB.jpeg": "/shoeShop/static/media/calzado-air-max-flyknit-racer-m3NSDB.df5b3f92806207d1264c.jpeg",
+    "static/media/316-0475_1.jpeg": "/shoeShop/static/media/316-0475_1.e3b4a1c122ad7e95b179.jpeg",
+    "static/media/10434489-24c7-4175-9833-6d6cdd965a9c.jpeg": "/shoeShop/static/media/10434489-24c7-4175-9833-6d6cdd965a9c.9010a4ff108e83f3dc52.jpeg",
+    "static/media/calzado-air-max-sc-LR42xg.jpeg": "/shoeShop/static/media/calzado-air-max-sc-LR42xg.0443f34787157c0d01c8.jpeg",
+    "index.html": "/shoeShop/index.html",
+    "main.5cf09c4b.css.map": "/shoeShop/static/css/main.5cf09c4b.css.map",
+    "main.25b64615.js.map": "/shoeShop/static/js/main.25b64615.js.map"
   },
   "entrypoints": [
-    "static/css/main.06a19fea.css",
-    "static/js/main.b15be140.js"
+    "static/css/main.5cf09c4b.css",
+    "static/js/main.25b64615.js"
   ]
 }
