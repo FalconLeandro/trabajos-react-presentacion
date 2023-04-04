@@ -12,6 +12,6 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(180deg, #4ba9eb, #4ba9e9 50%, #fff 50%, #fff 100%);
+    background: linear-gradient(180deg, #4ba9eb, #4ba9e9 50%, #4CEBDE 50%, #4CEBDE 100%);
     font-family: "Poppins";
 }
